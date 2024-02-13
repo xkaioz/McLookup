@@ -1,0 +1,6 @@
+colorama
+art
+requests
+termcolor
+mcstatuts
+
