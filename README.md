@@ -23,6 +23,6 @@ McLookup is the ultimate tool for looking up Minecraft servers.
 
 # Contact: 
 
-My discord: sqlkaiioz.
+My discord: wkaiioz.
 
 My telegram: zKaiioZ
